@@ -9,7 +9,7 @@ YEAR = []
 win = Tk()
 win.geometry("500x500")
 win.title("پیشگوی مرگ")
-win.iconbitmap("local-idiot-dies-understandable-death-1.ico")
+win.iconbitmap("death.ico")
 win.resizable(0,0)
 
 #calculate the jalali year
